@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="insightface.retinaface.retinafaceimport" />
+          <option value="insightface.retinaface.rcnn.cython.bbox" />
+          <option value="insightface.retinaface.rcnn.processing.bbox_transform.*" />
+          <option value="insightface.retinaface.rcnn.processing.generate_anchor.anchors_cython" />
+          <option value="insightface.retinaface.rcnn.processing.nms.cpu_nms" />
+          <option value="face_model" />
+          <option value="face_preprocess" />
+          <option value="insightface.deploy.face_model.*" />
+          <option value="mtcnn_detector" />
+          <option value="insightface.retinaface.retinaface.*" />
+          <option value="insightface.retinaface.rcnn.cython.bbox_overlaps_cython" />
+          <option value="insightface.retinaface.rcnn.cython.*" />
+          <option value="insightface.retinaface.rcnn.processing.generate_anchor.config" />
+          <option value="insightface.retinaface.rcnn.processing.assign_levels.rcnn" />
+          <option value="utils.augmentation" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
